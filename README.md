@@ -18,6 +18,12 @@ Java Programming Essentials Bootcamp (5 Days) Certification In Collaboration wit
   - Write a Java program that prompts the user to enter a number and determines whether the number is positive or negative. If the number is positive, the program should print "The number is positive." If the number is negative, the program should print "The number is negative."
   - ### Solution: [Java Code](https://github.com/alamin-karno/Java-Programming-Essentials-Bootcamp-Assignments/blob/main/Assignment01.java)
 
+## Day 04: 
+- In-depth knowledge on Loops | Java Programming Essentials Bootcamp (5 Days)
+- Video Link: [YouTube](https://www.youtube.com/watch?v=FHUEVcwW0Kc)
+- ## Assignment: 
+  - Write a function that returns the sum of two integers. 
+  - ### Solution: [Java Code](https://github.com/alamin-karno/Java-Programming-Essentials-Bootcamp-Assignments/blob/main/Assignment02.java)
 
 
 # More Bootcamps from Lets Upgrade:
