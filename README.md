@@ -25,6 +25,13 @@ Java Programming Essentials Bootcamp (5 Days) Certification In Collaboration wit
   - Write a function that returns the sum of two integers. 
   - ### Solution: [Java Code](https://github.com/alamin-karno/Java-Programming-Essentials-Bootcamp-Assignments/blob/main/Assignment02.java)
 
+## Day 05: 
+- Project Day | Java Programming Essentials Bootcamp (5 Days)
+- Video Link: [YouTube](https://www.youtube.com/watch?v=YXtwsboDsd0)
+- ## Assignment: 
+  - Write a function that takes a positive integer n and returns the sum of all integers from 1 to n.
+  - ### Solution: [Java Code](https://github.com/alamin-karno/Java-Programming-Essentials-Bootcamp-Assignments/blob/main/Assignment03.java)
+
 
 # More Bootcamps from Lets Upgrade:
 
